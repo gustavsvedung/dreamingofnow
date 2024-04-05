@@ -79,13 +79,14 @@ h1 {
 }
 
 .dedication {
-    margin: 1.2rem auto;
+    margin: 2.5rem auto;
     text-align: center;
     font-style: italic;
 }
 
 .recording-info {
-    margin-bottom: 2rem;
+    margin: 1.2rem auto;
+    /* margin-bottom: 2rem; */
 }
 
 ul {
